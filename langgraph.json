@@ -1,0 +1,9 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "arithmetic_agent": "./app/agents/arithmetic_sample/graph.py:arithmetic_app"
+
+  },
+  "env": ".env"
+  
+}
